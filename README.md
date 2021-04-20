@@ -2,7 +2,7 @@
 <h3 align="center"> estudante de desenvolvimento web se aventurando e tornando-se apaixonada pelo mundo tech e desenvolvimento</h3>
 
 
-- 🌱 Estudando e aprimorando as seguintes tecnologias: **HTML | CSS | JavaScript | NodeJS | SQL| NoSQ | React.Js | JAVA | Data Science | Python **
+- 🌱 Estudando e aprimorando as seguintes tecnologias: **HTML | CSS | JavaScript | NodeJS | SQL| NoSQ | React.Js | JAVA | Data Science | Python**
 - 📫 Você pode entrar em contato comigo pelo e-mail: **<a href="mailto: assis.mainara@gmail.com">assis.mainara@gmail.com </a>**
 - 📄 Pode me achar no LinkedIn também: <a href="https://www.linkedin.com/in/mainara-assis-5800a38a/">Mainara Assis</a> 
 
