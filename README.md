@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, mundo! </h1>
-<h3 align="center"> estudante de desenvolvimento web se aventurando e tornando-se apaixonada pelo mundo tech e desenvolvimento</h3>
+<h3 align="center"> </h3>
 
 
 - 🌱 Estudando e aprimorando as seguintes tecnologias: **HTML | CSS | JavaScript | NodeJS | SQL | NoSQL | React.Js | JAVA | Data Analytics| Python**
